@@ -24,6 +24,7 @@ Interpretation & Insights:
 
 Key Factors: Smoking and BMI were found to be significant factors driving up medical costs.
 Prediction Accuracy: Achieved a high level of accuracy in predicting medical expenses, demonstrating the model's real-world applicability.
+
 💡 Skills Gained:
 Data Preprocessing: Developed expertise in cleaning and preparing data for machine learning models.
 Feature Engineering: Learned techniques to enhance model performance through feature creation and selection.
